@@ -1,4 +1,4 @@
-# New York Taxi Fare Prediction using Neural Networks
+# New York Taxi Fare Prediction using Neural Networks 🚕
 This project focuses on predicting taxi fares in New York City using Neural Networks.
 
 # Dataset
